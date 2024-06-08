@@ -1,0 +1,15 @@
+this is an answer to here (since that was not the right place and I could not find other contact info): https://github.com/nextcloud/text/issues/593#issuecomment-2150593616
+
+In a nutshell,  I have experience with onenote, logseq, standard notes and a little bit of joplin
+
+joplin  I can recommend if you want something open source and straightforward
+
+onenote if you want to collaborate with people who are already in the windows ecosystem or want to take handrawn notes in addition to other stuff
+
+standard notes if you want high security (they have external reviews and with them joining proton their security should only get better)
+
+logseq if you want features+open source. I have heard the "paradigm" it similar to org mode,  and I think logseq has some setting making it more similar to that -  but ultimately I have no experience with org mode
+
+if you have more in depth questions feel free to ask (seby.stack@s-sch.net)
+
+ also I would be interested to know how things worked out for you
